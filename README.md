@@ -8,7 +8,7 @@
 | 숫자 야구 | [java-baseball-6][java-baseball-6] | [숫자 야구 구현][숫자야구 구현] |
 | 자동차 경주 | [java-racingcar-6][java-racingcar-6]  | [자동차 경주 구현][자동차 경주 구현] | 
 | 로또 |  [java-lotto-6][java-lotto-6] | [로또 구현][로또 구현]  |
-| 크리스마스 프로모션 | [java-christmas-6][java-christmas-6]  |  |
+| 크리스마스 프로모션 | [java-christmas-6][java-christmas-6]  | [크리스마스 프로모션 구현][크리스마스 프로모션 구현] |
 | 개발자 비상근무 | [java-oncall-6-alstn113][java-oncall-6-alstn113]  |  |
 
 [최종 합격 후기](https://alstn113.tistory.com/4)
@@ -34,5 +34,6 @@
 [로또 구현]: https://github.com/woowacourse-precourse/java-lotto-6/pull/151
 
 [java-christmas-6]: https://github.com/alstn113/java-christmas-6-alstn113
+[크리스마스 프로모션 구현]: https://github.com/alstn113/java-christmas-6-alstn113/pull/1
 
 [java-oncall-6-alstn113]: https://github.com/alstn113/java-oncall-6-alstn113
