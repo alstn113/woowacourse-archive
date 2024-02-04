@@ -11,7 +11,7 @@
 | 크리스마스 프로모션 | [java-christmas-6][java-christmas-6]  | [크리스마스 프로모션 구현][크리스마스 프로모션 구현] |
 | 개발자 비상근무 | [java-oncall-6-alstn113][java-oncall-6-alstn113]  |  |
 
-[최종 합격 후기](https://alstn113.tistory.com/4)
+[최종 합격 후기](https://velog.io/@alstn113/우아한테크코스-6기-백엔드-최종-합격-후기)
 
 <!--
 ## 1️⃣ LEVEL1
