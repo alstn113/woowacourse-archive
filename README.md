@@ -1,7 +1,7 @@
 # Woowacourse I Learned
 > 우아한테크코스 6기 백엔드 구름
 
-##  Precourse 
+## ⭐️ Precourse 
 
 | Mission | Repository | PR |
 | --- | --- | --- |
@@ -13,15 +13,13 @@
 
 [최종 합격 후기](https://velog.io/@alstn113/우아한테크코스-6기-백엔드-최종-합격-후기)
 
-<!--
-## 1️⃣ LEVEL1
+## ⭐️ Level 1
 | Mission | Repository | PR-1 | PR-2 | 회고 |
 | --- | --- | --- | --- | --- |
-| 미션1 |  |  |  |  |
-| 미션2 |  |  |  |  |
-| 미션3 |  |  |  |  |
-| 미션4 |  |  |  |  |
--->
+| 자동차 경주 | [java-racingcar][java-racingcar] | [1단계 자동차 경주 구현] |  |  |
+| 사다리 타기 |  |  |  |  |
+| 블랙잭 |  |  |  |  |
+| 체스 |  |  |  |  |
   
 <!-- url 변수-->
 [java-baseball-6]: https://github.com/alstn113/java-baseball-6
@@ -37,3 +35,6 @@
 [크리스마스 프로모션 구현]: https://github.com/alstn113/java-christmas-6-alstn113/pull/1
 
 [java-oncall-6-alstn113]: https://github.com/alstn113/java-oncall-6-alstn113
+
+[java-racingcar]: https://github.com/alstn113/java-racingcar/tree/alstn113
+[1단계 자동차 경주 구현]: https://github.com/woowacourse/java-racingcar/pull/664
