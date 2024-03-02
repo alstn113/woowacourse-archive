@@ -16,8 +16,8 @@
 ## ⭐️ Level 1
 | Mission | Repository | PR-1 | PR-2 | 회고 |
 | --- | --- | --- | --- | --- |
-| 자동차 경주 | [java-racingcar][java-racingcar] | [1단계 자동차 경주 구현] | [2단계 자동차 경주 리팩토링] | [자동차 경주 회고] |
-| 사다리 타기 | [java-ladder][java-ladder] | [1단계 사다리 생성] | [2단계 사다리 실행] |  |
+| 자동차 경주 | [java-racingcar] | [1단계 자동차 경주 구현] | [2단계 자동차 경주 리팩토링] | [자동차 경주 회고] |
+| 사다리 타기 | [java-ladder] | [1단계 사다리 생성] | [2단계 사다리 실행] | [사다리 타기 회고] |
 | 블랙잭 |  |  |  |  |
 | 체스 |  |  |  |  |
   
@@ -43,3 +43,4 @@
 [java-ladder]: https://github.com/alstn113/java-ladder
 [1단계 사다리 생성]: https://github.com/woowacourse/java-ladder/pull/256
 [2단계 사다리 실행]: https://github.com/woowacourse/java-ladder/pull/332
+[사다리 타기 회고]: https://velog.io/@alstn113/우아한테크코스-사다리-타기-회고
