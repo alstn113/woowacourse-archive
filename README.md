@@ -18,22 +18,18 @@
 | --- | --- | --- | --- | --- |
 | 자동차 경주 | [java-racingcar] | [1단계 자동차 경주 구현] | [2단계 자동차 경주 리팩토링] | [자동차 경주 회고] |
 | 사다리 타기 | [java-ladder] | [1단계 사다리 생성] | [2단계 사다리 실행] | [사다리 타기 회고] |
-| 블랙잭 | [java-blackjack] |  |  |  |
+| 블랙잭 | [java-blackjack] | [1단계 블랙잭 게임 실행] |  |  |
 | 체스 |  |  |  |  |
   
 <!-- url 변수-->
 [java-baseball-6]: https://github.com/alstn113/java-baseball-6
 [숫자야구 구현]: https://github.com/woowacourse-precourse/java-baseball-6/pull/132
-
 [java-racingcar-6]: https://github.com/alstn113/java-racingcar-6
 [자동차 경주 구현]: https://github.com/woowacourse-precourse/java-racingcar-6/pull/211
-
 [java-lotto-6]: https://github.com/alstn113/java-lotto-6
 [로또 구현]: https://github.com/woowacourse-precourse/java-lotto-6/pull/151
-
 [java-christmas-6]: https://github.com/alstn113/java-christmas-6-alstn113
 [크리스마스 프로모션 구현]: https://github.com/alstn113/java-christmas-6-alstn113/pull/1
-
 [java-oncall-6-alstn113]: https://github.com/alstn113/java-oncall-6-alstn113
 
 [java-racingcar]: https://github.com/alstn113/java-racingcar/tree/alstn113
@@ -45,3 +41,4 @@
 [2단계 사다리 실행]: https://github.com/woowacourse/java-ladder/pull/332
 [사다리 타기 회고]: https://velog.io/@alstn113/우아한테크코스-사다리-타기-회고
 [java-blackjack]: https://github.com/alstn113/java-blackjack
+[1단계 블랙잭 게임 실행]: https://github.com/woowacourse/java-blackjack/pull/606
