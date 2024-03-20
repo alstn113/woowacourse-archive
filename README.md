@@ -19,7 +19,7 @@
 | 자동차 경주 | [java-racingcar] | [1단계 자동차 경주 구현] | [2단계 자동차 경주 리팩토링] | [자동차 경주 회고] |
 | 사다리 타기 | [java-ladder] | [1단계 사다리 생성] | [2단계 사다리 실행] | [사다리 타기 회고] |
 | 블랙잭 | [java-blackjack] | [1단계 블랙잭 게임 실행] | [2단계 블랙잭 베팅] | [블랙잭 회고] |
-| 체스 |  |  |  |  |
+| 체스 | [java-chess] |  |  |  |
   
 <!-- url 변수-->
 [java-baseball-6]: https://github.com/alstn113/java-baseball-6
@@ -44,3 +44,4 @@
 [1단계 블랙잭 게임 실행]: https://github.com/woowacourse/java-blackjack/pull/606
 [2단계 블랙잭 베팅]: https://github.com/woowacourse/java-blackjack/pull/675
 [블랙잭 회고]: https://velog.io/@alstn113/우아한테크코스-블랙잭-회고
+[java-chess]: https://github.com/alstn113/java-chess
