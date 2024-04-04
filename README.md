@@ -19,9 +19,9 @@
 | 자동차 경주 | [java-racingcar] | [1단계 자동차 경주 구현] | [2단계 자동차 경주 리팩토링] | [자동차 경주 회고] |
 | 사다리 타기 | [java-ladder] | [1단계 사다리 생성] | [2단계 사다리 실행] | [사다리 타기 회고] |
 | 블랙잭 | [java-blackjack] | [1단계 블랙잭 게임 실행] | [2단계 블랙잭 베팅] | [블랙잭 회고] |
-| 체스 | [java-chess] | [1,2단계 체스] |  |  |
+| 체스 | [java-chess] | [1,2단계 체스] | [3,4단계 체스] | [체스 회고] |
   
-<!-- url 변수-->
+<!-- url 변수 -->
 [java-baseball-6]: https://github.com/alstn113/java-baseball-6
 [숫자야구 구현]: https://github.com/woowacourse-precourse/java-baseball-6/pull/132
 [java-racingcar-6]: https://github.com/alstn113/java-racingcar-6
@@ -32,6 +32,7 @@
 [크리스마스 프로모션 구현]: https://github.com/alstn113/java-christmas-6-alstn113/pull/1
 [java-oncall-6-alstn113]: https://github.com/alstn113/java-oncall-6-alstn113
 
+<!-- 레벨 1 -->
 [java-racingcar]: https://github.com/alstn113/java-racingcar/tree/alstn113
 [1단계 자동차 경주 구현]: https://github.com/woowacourse/java-racingcar/pull/664
 [2단계 자동차 경주 리팩토링]: https://github.com/woowacourse/java-racingcar/pull/733
@@ -46,3 +47,5 @@
 [블랙잭 회고]: https://velog.io/@alstn113/우아한테크코스-블랙잭-회고
 [java-chess]: https://github.com/alstn113/java-chess
 [1,2단계 체스]: https://github.com/woowacourse/java-chess/pull/660
+[3,4단계 체스]: https://github.com/woowacourse/java-chess/pull/762
+[체스 회고]: https://velog.io/@alstn113/우아한테크코스-체스-회고
