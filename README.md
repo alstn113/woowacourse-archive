@@ -24,9 +24,10 @@
 ## ⭐️ Level 2
 | Mission | Repository | PR-1 | PR-2 | 회고 |
 | --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| 방탈출 예약 관리 |  |  |  |  |
+| 방탈출 사용자 예약 |  |  |  |  |
+| 방탈출 예약 대기 |  |  |  |  |
+| 방탈출 결제 / 배포 |  |  |  |  |
 
 <!-- url 변수 -->
 [java-baseball-6]: https://github.com/alstn113/java-baseball-6
