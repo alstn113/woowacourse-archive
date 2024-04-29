@@ -24,7 +24,7 @@
 ## ⭐️ Level 2
 | Mission | Repository | PR-1 | PR-2 | 회고 |
 | --- | --- | --- | --- | --- |
-| 방탈출 예약 관리 | [spring-roomescape-admin] | [1-3단계 방탈출 예약 관리] | [4-9단계 방탈출 예약 관리] |  |
+| 방탈출 예약 관리 | [spring-roomescape-admin] | [1-3단계 방탈출 예약 관리] | [4-9단계 방탈출 예약 관리] | [방탈출 예약 관리 회고] |
 | 방탈출 사용자 예약 |  |  |  |  |
 | 방탈출 예약 대기 |  |  |  |  |
 | 방탈출 결제 / 배포 |  |  |  |  |
@@ -62,4 +62,5 @@
 [spring-roomescape-admin]: https://github.com/alstn113/spring-roomescape-admin
 [1-3단계 방탈출 예약 관리]: https://github.com/woowacourse/spring-roomescape-admin/pull/11
 [4-9단계 방탈출 예약 관리]: https://github.com/woowacourse/spring-roomescape-admin/pull/108
+[방탈출 예약 관리 회고]: https://velog.io/@alstn113/우아한테크코스-방탈출-예약-관리-회고
 
