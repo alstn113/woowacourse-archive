@@ -26,7 +26,7 @@
 | --- | --- | --- | --- | --- |
 | 방탈출 예약 관리 | [spring-roomescape-admin] | [1-3단계][예약 관리 1-3단계] | [4-9단계][예약 관리 4-9단계] | [회고][예약 관리 회고] |
 | 방탈출 사용자 예약 | [spring-roomescape-member] | [1-3단계][사용자 예약 1-3단계] | [4-6단계][사용자 예약 4-6단계] | [회고][사용자 예약 회고] |
-| 방탈출 예약 대기 |  |  |  |  |
+| 방탈출 예약 대기 | [spring-roomescape-waiting] | [1-2단계][예약 대기 1-2단계] |  |  |
 | 방탈출 결제 / 배포 |  |  |  |  |
 
 <!-- url 변수 -->
@@ -66,4 +66,6 @@
 [spring-roomescape-member]: https://github.com/alstn113/spring-roomescape-member
 [사용자 예약 1-3단계]: https://github.com/woowacourse/spring-roomescape-member/pull/9
 [사용자 예약 4-6단계]: https://github.com/woowacourse/spring-roomescape-member/pull/87
-[사용자 예약 회고]: https://velog.io/@alstn113/우아한테크코스-방탈출-사용자-예약-회고 
+[사용자 예약 회고]: https://velog.io/@alstn113/우아한테크코스-방탈출-사용자-예약-회고
+[spring-roomescape-waiting]: https://github.com/alstn113/spring-roomescape-waiting
+[예약 대기 1-2단계]: https://github.com/woowacourse/spring-roomescape-waiting/pull/5
