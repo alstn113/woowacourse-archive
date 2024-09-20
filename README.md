@@ -33,7 +33,7 @@
 | Mission | Repository | PR-1 | PR-2 | PR-3 | 회고 |
 | --- | --- | --- | --- | --- | --- | 
 | Tomcat 구현하기 | [java-http] | [1-2단계][tomcat 1-2단계] | [3단계][tomcat 3단계] | [4단계][tomcat 4단계]  | |
-| @MVC 구현하기 | [java-mvc] | [1단계][mvc 1단계] | | | | 
+| @MVC 구현하기 | [java-mvc] | [1단계][mvc 1단계] | [2단계][mvc 2단계] | | | 
 
 <!-- url 변수 -->
 [java-baseball-6]: https://github.com/alstn113/java-baseball-6
@@ -89,3 +89,5 @@
 [tomcat 4단계]:https://github.com/woowacourse/java-http/pull/695
 [java-mvc]:https://github.com/alstn113/java-mvc
 [mvc 1단계]:https://github.com/woowacourse/java-mvc/pull/639
+[mvc 2단계]:https://github.com/woowacourse/java-mvc/pull/684
+
