@@ -29,6 +29,12 @@
 | 방탈출 예약 대기 | [spring-roomescape-waiting] | [1-2단계][예약 대기 1-2단계] | [3-4단계][예약 대기 3-4단계] | [회고][예약 대기 회고] |
 | 방탈출 결제 / 배포 | [spring-roomescape-payment] | [1단계][결제 / 배포 1단계] | [2-4단계][결제 / 배포 2-4단계] | [회고][결제 / 배포 회고] |
 
+## 레벨 3
+
+| Project | Repository |
+| --- | --- |
+| 데벨업 | [devel-up] |
+
 ## 레벨 4
 | Mission | Repository | PR-1 | PR-2 | PR-3 | 회고 |
 | --- | --- | --- | --- | --- | --- | 
@@ -81,6 +87,9 @@
 [결제 / 배포 1단계]: https://github.com/woowacourse/spring-roomescape-payment/pull/4
 [결제 / 배포 2-4단계]: https://github.com/woowacourse/spring-roomescape-payment/pull/109
 [결제 / 배포 회고]: https://velog.io/@alstn113/우아한테크코스-방탈출-결제-배포-회고
+
+<!-- 레벨 3 -->
+[devel-up]: https://github.com/woowacourse-teams/2024-devel-up
 
 <!-- 레벨 4 -->
 [java-http]: https://github.com/alstn113/java-http
