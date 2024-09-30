@@ -36,11 +36,11 @@
 | 데벨업 | [devel-up] |
 
 ## 레벨 4
-| Mission | Repository | PR-1 | PR-2 | PR-3 |
-| --- | --- | --- | --- | --- |
-| Tomcat 구현하기 | [java-http] | [1-2단계][tomcat 1-2단계] | [3단계][tomcat 3단계] | [4단계][tomcat 4단계] |
-| @MVC 구현하기 | [java-mvc] | [1단계][mvc 1단계] | [2단계][mvc 2단계] | [3단계][mvc 3단계] |
-| JDBC 라이브러리 구현하기 | [java-jdbc] | | |
+| Mission | Repository | PR-1 | PR-2 | PR-3 | 학습테스트 |
+| --- | --- | --- | --- | --- | --- |
+| Tomcat 구현하기 | [java-http] | [1-2단계][tomcat 1-2단계] | [3단계][tomcat 3단계] | [4단계][tomcat 4단계] | |
+| @MVC 구현하기 | [java-mvc] | [1단계][mvc 1단계] | [2단계][mvc 2단계] | [3단계][mvc 3단계] | [java-di][java-di] |
+| JDBC 라이브러리 구현하기 | [java-jdbc] | | | |
 
 <!-- url 변수 -->
 [java-baseball-6]: https://github.com/alstn113/java-baseball-6
@@ -101,4 +101,5 @@
 [mvc 1단계]:https://github.com/woowacourse/java-mvc/pull/639
 [mvc 2단계]:https://github.com/woowacourse/java-mvc/pull/684
 [mvc 3단계]:https://github.com/woowacourse/java-mvc/pull/736
+[java-di]: https://github.com/alstn113/java-di
 [java-jdbc]:https://github.com/alstn113/java-jdbc
