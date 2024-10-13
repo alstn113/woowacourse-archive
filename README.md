@@ -40,7 +40,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | Tomcat 구현하기 | [java-http] | [1-2단계][tomcat 1-2단계] | | [3단계][tomcat 3단계] | [4단계][tomcat 4단계] | |
 | @MVC 구현하기 | [java-mvc] | [1단계][mvc 1단계] | [2단계][mvc 2단계] | [3단계][mvc 3단계] | | [java-di][java-di] |
-| JDBC 라이브러리 구현하기 | [java-jdbc] | [1단계][jdbc 1단계] | [2단계][jdbc 2단계] | [3단계][jdbc 3단계] | | [java-aop][java-aop] |
+| JDBC 라이브러리 구현하기 | [java-jdbc] | [1단계][jdbc 1단계] | [2단계][jdbc 2단계] | [3단계][jdbc 3단계] | [4단계][jdbc 4단계] | [java-aop][java-aop] |
 
 <!-- url 변수 -->
 [java-baseball-6]: https://github.com/alstn113/java-baseball-6
@@ -106,5 +106,5 @@
 [jdbc 1단계]:https://github.com/woowacourse/java-jdbc/pull/614
 [jdbc 2단계]:https://github.com/woowacourse/java-jdbc/pull/656
 [jdbc 3단계]:https://github.com/woowacourse/java-jdbc/pull/719
-
+[jdbc 4단계]:https://github.com/woowacourse/java-jdbc/pull/856
 [java-aop]: https://github.com/alstn113/java-aop
