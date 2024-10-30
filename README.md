@@ -41,7 +41,7 @@
 | Tomcat 구현하기 | [java-http] | [1-2단계][tomcat 1-2단계] | | [3단계][tomcat 3단계] | [4단계][tomcat 4단계] | |
 | @MVC 구현하기 | [java-mvc] | [1단계][mvc 1단계] | [2단계][mvc 2단계] | [3단계][mvc 3단계] | | [java-di][java-di] |
 | JDBC 라이브러리 구현하기 | [java-jdbc] | [1단계][jdbc 1단계] | [2단계][jdbc 2단계] | [3단계][jdbc 3단계] | [4단계][jdbc 4단계] | [java-aop][java-aop] |
-| DB 복제와 캐시 | [java-coupon] | [복제 지연] |  |  | | [쇼핑몰] |
+| DB 복제와 캐시 | [java-coupon] | [복제 지연] | [캐시] |  | | [쇼핑몰] |
 
 <!-- url 변수 -->
 [java-baseball-6]: https://github.com/alstn113/java-baseball-6
@@ -111,4 +111,6 @@
 [java-aop]: https://github.com/alstn113/java-aop
 [java-coupon]: https://github.com/alstn113/java-coupon
 [복제 지연]: https://github.com/woowacourse/java-coupon/pull/14
+[캐시]: https://github.com/woowacourse/java-coupon/pull/88
 [쇼핑몰]: https://github.com/woowacourse/infra-architecture-4/discussions/6
+
