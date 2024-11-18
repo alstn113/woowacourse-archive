@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/59ab19d3-0022-4389-9f0f-2ec8d802f635)
+
 # 우아한테크코스에서 배운 것들의 기록
 > 우아한테크코스 6기 백엔드 구름
 
