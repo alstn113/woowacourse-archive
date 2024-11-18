@@ -41,7 +41,7 @@
 | Tomcat 구현하기 | [java-http] | [1-2단계][tomcat 1-2단계] | | [3단계][tomcat 3단계] | [4단계][tomcat 4단계] | |
 | @MVC 구현하기 | [java-mvc] | [1단계][mvc 1단계] | [2단계][mvc 2단계] | [3단계][mvc 3단계] | | [java-di][java-di] |
 | JDBC 라이브러리 구현하기 | [java-jdbc] | [1단계][jdbc 1단계] | [2단계][jdbc 2단계] | [3단계][jdbc 3단계] | [4단계][jdbc 4단계] | [java-aop][java-aop] |
-| DB 복제와 캐시 | [java-coupon] | [복제 지연] | [캐시] |  | | [쇼핑몰] |
+| DB 복제와 캐시 | [java-coupon] | [1단계][coupon 1단계] | [2단계][coupon 2단계] |  | | [infra][coupon infra] |
 
 ## 글쓰기 
 
@@ -120,9 +120,9 @@
 [jdbc 4단계]:https://github.com/woowacourse/java-jdbc/pull/856
 [java-aop]: https://github.com/alstn113/java-aop
 [java-coupon]: https://github.com/alstn113/java-coupon
-[복제 지연]: https://github.com/woowacourse/java-coupon/pull/14
-[캐시]: https://github.com/woowacourse/java-coupon/pull/88
-[쇼핑몰]: https://github.com/woowacourse/infra-architecture-4/discussions/6
+[coupon 1단계]: https://github.com/woowacourse/java-coupon/pull/14
+[coupon 2단계]: https://github.com/woowacourse/java-coupon/pull/88
+[coupon infra]: https://github.com/woowacourse/infra-architecture-4/discussions/6
 
 <!-- 글쓰기 -->
 [레벨 1]: https://github.com/woowacourse/woowa-writing/blob/alstn113/level1.md
