@@ -55,7 +55,11 @@
 | 레벨 3 | [레벨 3] |
 | 테크니컬 라이팅 | [테크니컬 라이팅] |
 
+## 활동
 
+- [레벨 인터뷰](https://github.com/2024-woowacourse-study/level-interview)
+- [개발 문화 탐구](https://github.com/2024-woowacourse-study/gae-mun-tam)
+  
 <!-- url 변수 -->
 [java-baseball-6]: https://github.com/alstn113/java-baseball-6
 [숫자야구 구현]: https://github.com/woowacourse-precourse/java-baseball-6/pull/132
